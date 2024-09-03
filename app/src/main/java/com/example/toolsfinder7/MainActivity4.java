@@ -44,7 +44,7 @@ public class MainActivity4 extends AppCompatActivity {
         if (!searchText.isEmpty()) {
             GenerativeModel gm = new GenerativeModel(/* modelName */ "gemini-pro",
                     // Access your API key as a Build Configuration variable (see "Set up your API key" above)
-                    /* apiKey */ "AIzaSyA-d9vOmOTmooRo9aUYAnMIij0mJc24A0s");
+                    /* apiKey */ "Enter-Your-API-key");
             GenerativeModelFutures model = GenerativeModelFutures.from(gm);
             Content content = new Content.Builder()
                     .addText(searchText) // Use the text from the input box
