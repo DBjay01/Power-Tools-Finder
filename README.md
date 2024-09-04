@@ -6,13 +6,13 @@ Power Tools Finder is a mobile application designed to assist users in identifyi
 
 ## Features
 
-- Image Recognition: Utilizes a TensorFlow Lite model to identify a wide range of industrial power tools from images captured by the mobile device's camera.
+- **Image Recognition**: Utilizes a TensorFlow Lite model to identify a wide range of industrial power tools from images captured by the mobile device's camera.
 
-- Tool Suggestions: An AI-driven system provides alternative tool recommendations based on factors such as size, material, and price, ensuring users find the best tool for their needs.
+- **Tool Suggestions**: An AI-driven system provides alternative tool recommendations based on factors such as size, material, and price, ensuring users find the best tool for their needs.
 
-- Comprehensive Database: A detailed database of industrial power tools with specifications, usage guidelines, and safety instructions is integrated into the app for user reference.
+- **Comprehensive Database**: A detailed database of industrial power tools with specifications, usage guidelines, and safety instructions is integrated into the app for user reference.
 
-- User-Friendly Interface: Designed with an intuitive and responsive UI, the app ensures a seamless user experience across devices.
+- **User-Friendly Interface**: Designed with an intuitive and responsive UI, the app ensures a seamless user experience across devices.
 
 
 ## Tech Stack
